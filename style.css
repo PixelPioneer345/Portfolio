@@ -1,0 +1,74 @@
+body {
+  margin: 0;
+  font-family: Roboto;
+}
+
+.header {
+  background-color: #1f2937;
+  color: #f9faf8;
+  font-size: 20px;
+  height: 500px;
+}
+
+.header-menu {
+  color: #f9faf8;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.header-logo {
+  flex: 1;
+  margin: 20px 70px;
+}
+
+.header-links {
+  margin: 40px 70px;
+  align-items: center;
+}
+.links {
+  flex: 1;
+  color: #f9faf8;
+  margin-left: 30px;
+  text-decoration: none;
+}
+
+/* Paragraph and my image */
+.hero {
+  margin-top: 100px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.greeting {
+  margin: 10px;
+}
+.my-info {
+  flex: 1;
+  margin-left: 200px;
+}
+.paragraph {
+  width: 470px;
+  font-size: 16px;
+}
+
+.image-sec {
+  flex: 1;
+  margin-left: 200px;
+}
+.image {
+  width: 400px;
+}
+
+.more-info-btn {
+  padding: 10px 30px;
+  border: none;
+  background-color: #3882f6;
+  border-radius: 16px;
+  color: #f9faf8;
+  font-weight: 700p;
+  font-size: 17px;
+  cursor: pointer;
+}
