@@ -72,3 +72,50 @@ body {
   font-size: 17px;
   cursor: pointer;
 }
+
+.partnerships {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  height: 450px;
+}
+
+.archdiv {
+  margin-top: 60px;
+  display: flex;
+  flex-direction: row;
+}
+
+.box1 {
+  background-color: white;
+  border: 3px solid grey;
+  border-radius: 8px;
+  padding: 20px 40px;
+  margin: 0 20px;
+}
+
+.pictures {
+  width: 90px;
+  height: 90px;
+  object-fit: contain;
+}
+
+.quote {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  background-color: #e5e7eb;
+  height: 450px;
+}
+
+.copyright {
+  background-color: #1f2937;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90px;
+  color: #f9faf8;
+}

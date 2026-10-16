@@ -22,3 +22,9 @@ _(Feel free to update these as you learn!)_
 - **Tools:** Git, GitHub, VS Code
 
 ---
+
+## Sorry 🙏🙏🙏
+
+- \*\*Instead of writing a landing page I wrote a portfolio 😭
+
+---
